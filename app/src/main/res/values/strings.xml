@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CreandoCaminos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Creando Caminos</string>
+    <string name="nav_header_subtitle">usuario@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_slideshow">Mi perfil</string>
+    <string name="menu_gallery">Mis itinerarios</string>
+    <string name="menu_tools">Configuración</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Enviar</string>
+
+    <string name="loading">Cargando &#8230;</string>
+
+    <string name="friends">Amigos</string>
+
+    <string name="no_connection">No hay conexión</string>
+</resources>
